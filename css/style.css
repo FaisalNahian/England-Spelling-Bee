@@ -1,0 +1,50 @@
+body {
+	font-size: 10px;
+	font-family: Arial;
+}
+
+h1 {
+	font-size: 16px;
+}
+
+.balloontext {
+	width: 200px;
+}
+
+.footnote {
+	font-size: 9px;
+}
+
+#info {
+	width: 250px; 
+	padding: 5px; 
+	float: right; 
+	border: 1px solid black; 
+	font-size: 12px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#footer {
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-top: 4px;
+}
+
+a:link {
+	color: #5555FF;
+}
+
+a:active {
+	color: #5555FF;
+}
+
+a:visited {
+	color: #5555FF;
+}
+
+a:hover {
+	color: #9595FF;
+}
