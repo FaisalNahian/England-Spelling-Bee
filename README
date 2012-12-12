@@ -1,0 +1,6 @@
+England Twitter Spelling Contest
+======
+
+Mashup created for a university module on browser based application design. Draws data from Twitter, google maps and data.gov.uk.
+
+The website scans recent tweets from each 'region' of the UK, checks the spelling of each and averages a score of mispellings per region. This data is then compared to government stats on employment rates in each region. Whatever correlation you draw from that is your opinion ;)
